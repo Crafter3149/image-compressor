@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useRef } from 'react';
 import { UploadCloud, Download, X } from 'lucide-react';
-
+import AdDisplay from './AdDisplay.js';
 const ImageCompressor = () => {
   const [image, setImage] = useState(null);
   const [preview, setPreview] = useState('');
@@ -119,6 +119,7 @@ const ImageCompressor = () => {
 
   return (
     <div className="max-w-3xl mx-auto px-4">
+        <AdDisplay />
       <h1 className="text-3xl font-bold text-center mb-8">圖片壓縮工具</h1>
       
       {error && (

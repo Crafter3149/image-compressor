@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image-compressor/static/css/main.4aa672b7.css",
+    "main.js": "/image-compressor/static/js/main.5ca86470.js",
+    "static/js/453.c17053bd.chunk.js": "/image-compressor/static/js/453.c17053bd.chunk.js",
+    "index.html": "/image-compressor/index.html",
+    "main.4aa672b7.css.map": "/image-compressor/static/css/main.4aa672b7.css.map",
+    "main.5ca86470.js.map": "/image-compressor/static/js/main.5ca86470.js.map",
+    "453.c17053bd.chunk.js.map": "/image-compressor/static/js/453.c17053bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aa672b7.css",
+    "static/js/main.5ca86470.js"
+  ]
+}

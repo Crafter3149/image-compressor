@@ -215,6 +215,7 @@ const ImageCompressor = () => {
           </button>
         </div>
       )}
+    <AdDisplay />
     </div>
   );
 };
